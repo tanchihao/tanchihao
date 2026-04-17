@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00d9ff,35:0a2c44,70:1b3c2b,100:07141f&text=%E8%91%A3%E6%98%8A%20%7C%20Code%20Automation%20AI&fontAlignY=38&fontSize=38&fontColor=f2f6fa&desc=Learning%20by%20building.&descAlignY=57&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00d9ff,35:0a2c44,70:1b3c2b,100:07141f&text=%E8%91%A3%E6%98%8A%20%7C%20Hi, I'm 董昊👋%20AI&fontAlignY=38&fontSize=38&fontColor=f2f6fa&desc=Learning%20by%20building.&descAlignY=57&descSize=18)
 
 # Hi, I'm 董昊👋
 
